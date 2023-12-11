@@ -3,7 +3,7 @@ In this repository, we provide almost-orthogonal arrays (AOAs) constructed throu
 
 Each array is given as a .dat file and organized in four folders (according to the construction method): AC, EXT, IP and TS. Each file has the format
 <p style="text-align: center;">
-$\text{s}s\text{\textunderscore k}k\text{_l}\lambda\text{\textunderscore p}p\text{\textunderscore e}\epsilon\text{\textunderscore MET.dat}$
+$\text{s}s\textunderscore\text{k}k\textunderscore\text{l}\lambda\textunderscore\text{p}p\textunderscore\text{e}\epsilon\textunderscore\text{MET.dat}$
 </p>p>
 where $s$, $k$, $\lambda$, $p$ and $\epsilon$ are positive integers, and MET is either AC, EXT, IP, TSBC (two-staged local search for bi-cyclic arrays) or TSQC (two-staged local search for quasi-cyclic) depending on the construction method. In such a file, the array has size $\lambda s^2\times k$ and entries ranging from $1$ to $s$. More precisely, each almost-orthogonal array provided has $\lambda s^2$ runs, $k$ factors, $s$ levels, a strength of $2$, index $\lambda$, tolerance $\epsilon$ and $p\in\{1,2\}$ the value for which the $p$-unbalance was minimized. In [the aforementioned paper](paper link), definitions and tables specifying further details about these arrays are provided.
 
