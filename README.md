@@ -1,7 +1,7 @@
 # AOAs
-In this repository, we provide almost-orthogonal arrays (AOAs) constructed through algebraic construction (AC), integer programming (IP) and two-staged local search (TS). An extra folder with previously constructed arrays (EXT) is also provided for comparison. See the paper "Almost-orthogonal arrays optimal with respect to a given tolerance and an automorphism group" ([paper link]()) by Luis Martínez, [María Merino](https://sites.google.com/view/maria-merino-maestre/en), Juan Manuel Montoya, [Josué Tonelli-Cueto](https://tonellicueto.xyz/) for more details.
+In this repository, we provide almost-orthogonal arrays (AOAs) constructed through algebraic construction (AC), integer programming (IP) and two-staged local search (TS). An extra folder with previously constructed arrays (EXT) is also provided for comparison. See the paper "Almost Orthogonal Arrays: Theory and Search Three Ways" ([paper link]()) by Luis Martínez, [María Merino](https://sites.google.com/view/maria-merino-maestre/en), Juan Manuel Montoya, [Josué Tonelli-Cueto](https://tonellicueto.xyz/) for more details.
 
-Each array is given as a .dat file and organized in four folders (according to the construction method): AC, EXT, IP and TS. Each file has the format
+Each array is given as a .dat file and organized into four folders (according to the construction method): AC (Algebraic Construction), EXT (from the Literature), IP (Integer Programming), and TS (Two-Staged Local Search). Each file has the format
 
 $\text{s}s\textunderscore\text{k}k\textunderscore\text{l}\lambda\textunderscore\text{p}p\textunderscore\text{e}\epsilon\textunderscore\text{MET.dat}$
 
