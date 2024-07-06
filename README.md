@@ -1,5 +1,5 @@
 # AOAs
-In this repository, we provide almost-orthogonal arrays (AOAs) constructed through algebraic construction (AC), integer programming (IP) and two-staged local search (TS). An extra folder with previously constructed arrays (EXT) is also provided for comparison. See the paper "Almost Orthogonal Arrays: Theory and Search Three Ways" ([paper link]()) by Luis Martínez, [María Merino](https://sites.google.com/view/maria-merino-maestre/en), Juan Manuel Montoya, [Josué Tonelli-Cueto](https://tonellicueto.xyz/) for more details.
+In this repository, we provide almost-orthogonal arrays (AOAs) constructed through algebraic construction (AC), integer programming (IP) and two-staged local search (TS). An extra folder with previously constructed arrays (EXT) is also provided for comparison. See the paper "Almost Orthogonal Arrays: Theory and Search Three Ways" ([arXiv:2406.19516](https://arxiv.org/abs/2406.19516)) by Luis Martínez, [María Merino](https://sites.google.com/view/maria-merino-maestre/en), Juan Manuel Montoya, [Josué Tonelli-Cueto](https://tonellicueto.xyz/) for more details.
 
 Each array is given as a .dat file and organized into four folders (according to the construction method): AC (Algebraic Construction), EXT (from the Literature), IP (Integer Programming), and TS (Two-Staged Local Search). Each file has the format
 
